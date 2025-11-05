@@ -1,0 +1,13 @@
+.image-upload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+  border: 2px dashed #cbd5e1;
+  border-radius: 1rem;
+  background-color: #f8fafc;
+  transition: 0.3s;
+}
+.image-upload:hover {
+  background-color: #f1f5f9;
+}
